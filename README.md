@@ -12,7 +12,7 @@ A private romantic messaging app for couples.
 - Beautiful dark romantic theme
 
 ## Download
-   [Download latest APK](../../releases/lates)
+   [Download latest APK](https://github.com/abhkpr/kardia-releases/releases/tag/v1.0.0)
 
 ## How to install
 1. Download the APK file below
