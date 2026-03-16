@@ -22,22 +22,3 @@ A private romantic messaging app for couples.
 
 ## Requirements
 - Android 6.0 or higher
-```
-
-Click **"Commit changes"**
-
----
-
-## Step 3 — Create a release in this new repo
-
-1. On the right side click **"Releases"** → **"Create a new release"**
-2. Tag: `v1.0.0`
-3. Title: `Kardia v1.0.0 — just for the two of us 💌`
-4. Upload your `app-release.apk` file
-5. Click **"Publish release"**
-
----
-
-## Your public download link will be:
-```
-https://github.com/yourusername/kardia-releases/releases/latest
