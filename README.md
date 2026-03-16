@@ -1,18 +1,18 @@
-# 💌 Kardia
+# Kardia
 
 > *just for the two of us*
 
 A private romantic messaging app for couples.
 
 ## Features
-- 💬 Real-time messaging
-- 😊 Emoji picker  
-- 🎞 GIF support
-- 💔 Missing You notifications
-- 🌙 Beautiful dark romantic theme
+- Real-time messaging
+- Emoji picker  
+- GIF support
+- Missing You notifications
+- Beautiful dark romantic theme
 
 ## Download
-👉 [Download latest APK](../../releases/latest)
+   [Download latest APK](../../releases/lates)
 
 ## How to install
 1. Download the APK file below
